@@ -2,7 +2,7 @@
 function scuberGreetingForFeet(someValue) {
   if (someValue <= 400) {
     message = 'This one is on me!'
-    return message
+    // return message
   }
   
 }
