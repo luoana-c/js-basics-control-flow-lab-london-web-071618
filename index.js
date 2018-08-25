@@ -19,6 +19,9 @@ function ternaryCheckCity(destination) {
   return message
 }
 
-function switchOnCharmFromTip() {
+
+
+function switchOnCharmFromTip(tip) {
+  switch 
   
 }
