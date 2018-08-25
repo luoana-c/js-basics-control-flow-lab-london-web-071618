@@ -1,4 +1,6 @@
 // Write your code in this file!
-function scuberGreetingForFeet(someValie) {
-  
+function scuberGreetingForFeet(someValue) {
+  if (someValue <= 400) {
+    message = 
+  }
 }
