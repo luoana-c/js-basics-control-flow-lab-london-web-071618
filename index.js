@@ -18,3 +18,7 @@ function ternaryCheckCity(destination) {
   destination == "NYC" ? message = 'Ok, sounds good.' : message = 'No go.'
   return message
 }
+
+function switchOnCharmFromTip() {
+  
+}
